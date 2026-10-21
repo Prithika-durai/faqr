@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(170, 103, 233);
+    text-align: center;
+    margin-top: 180px;
+}
+h2{
+    color:rgb(59, 2, 55)
+}
+button{
+    background-color: rgb(233, 163, 187);
+    border: none;
+}
+p{
+    color:rgb(39, 3, 39);
+}
